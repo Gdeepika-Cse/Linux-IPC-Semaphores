@@ -129,8 +129,8 @@ $ ./sem.o
 
 $ ipcs
 
-
 <img width="1000" height="506" alt="Screenshot 2025-11-16 203440" src="https://github.com/user-attachments/assets/e9b165f9-b37c-40d1-868d-8a9bd6df35d4" />
+
 
 <img width="997" height="390" alt="image" src="https://github.com/user-attachments/assets/f2b16a06-f99f-4c05-bc78-3358b0bbe469" />
 
