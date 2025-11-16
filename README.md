@@ -130,7 +130,7 @@ $ ./sem.o
 
 $ ipcs
 
-<img width="997" height="390" alt="image" src="https://github.com/user-attachments/assets/f2b16a06-f99f-4c05-bc78-3358b0bbe469" />
+<img width="999" height="393" alt="image" src="https://github.com/user-attachments/assets/e7c83ac2-a6ba-4757-a43e-be9262a56fb9" />
 
 # RESULT:
 The program is executed successfully.
